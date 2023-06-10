@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
 
+## What we covered
+* Set `Header Key` using Interceptor
+* Use `Loader` Using Interceptor
+* API Call
+* Use BehaviorSubject for Data sharing
+* Test case (Service/Component)
+* Stub
+* Component Test Case Covering
+* Service Test Case Covering
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
